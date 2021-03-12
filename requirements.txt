@@ -1,0 +1,43 @@
+appnope @ file:///opt/concourse/worker/volumes/live/6ca6f098-d773-4461-5c91-a24a17435bda/volume/appnope_1606859448531/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+certifi==2020.12.5
+chardet==4.0.0
+cycler==0.10.0
+decorator @ file:///home/ktietz/src/ci/decorator_1611930055503/work
+idna==2.10
+ipython @ file:///opt/concourse/worker/volumes/live/6f943439-fd56-4067-74e4-811b4d7ec5fc/volume/ipython_1612212908452/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+jedi @ file:///opt/concourse/worker/volumes/live/fb4a9bd9-ce20-4358-4d29-83b0746d57b6/volume/jedi_1606932574534/work
+kiwisolver @ file:///opt/concourse/worker/volumes/live/f8867fdb-2fa2-4145-73d9-4d6f6dad5f7c/volume/kiwisolver_1612282424136/work
+matplotlib @ file:///opt/concourse/worker/volumes/live/41e8cd50-031f-4dda-5787-dd3c4f4e0f08/volume/matplotlib-suite_1613407855571/work
+mkl-fft==1.2.1
+mkl-random==1.0.2
+mkl-service==2.3.0
+numpy @ file:///opt/concourse/worker/volumes/live/4c9854be-7c57-4c34-5c96-c6010c527509/volume/numpy_and_numpy_base_1607448155669/work
+oauthlib==3.1.0
+olefile==0.46
+pandas==1.2.2
+parso==0.7.0
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow @ file:///opt/concourse/worker/volumes/live/908c4bb7-c693-4f3a-5005-76a88fd03165/volume/pillow_1609786795096/work
+praw==7.2.0
+prawcore==2.0.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+psycopg2 @ file:///opt/concourse/worker/volumes/live/7541fe58-2a45-4073-5d69-313e733fc729/volume/psycopg2_1612298592535/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+Pygments @ file:///tmp/build/80754af9/pygments_1613849567472/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PySocks==1.7.1
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+requests==2.25.1
+requests-oauthlib==1.3.0
+six @ file:///opt/concourse/worker/volumes/live/34b5b2b5-c9cb-44fb-4b8e-8a9a881bfa35/volume/six_1605205329242/work
+tornado @ file:///opt/concourse/worker/volumes/live/2c1a63a2-006b-48ee-56b9-0cfe8b4927f9/volume/tornado_1606942321278/work
+traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
+tweepy==3.10.0
+update-checker==0.18.0
+urllib3==1.26.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+websocket-client==0.57.0
