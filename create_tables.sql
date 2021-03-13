@@ -2,7 +2,8 @@ CREATE TABLE stock (
     id SERIAL PRIMARY KEY,
     symbol TEXT NOT NULL,
     name TEXT NOT NULL,
-    exchange TEXT NOT NULL
+    exchange TEXT NOT NULL,
+    shortable BOOLEAN NOT NULL
 );
 
 /* find names and symbols - find csv*/
